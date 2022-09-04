@@ -1,3 +1,3 @@
-# xRozi.github.io
+# VanillaTweaks
 
-The Orginal Link [xRozi.github.io](https://xRozi.github.io).
+The Orginal Link [VanillaTweaks](https://xRozi.github.io).
